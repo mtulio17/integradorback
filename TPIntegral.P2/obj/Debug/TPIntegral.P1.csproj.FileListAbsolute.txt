@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\ConsoleApp1\TPIntegral.P2\bin\Debug\TPIntegral.P2.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\ConsoleApp1\TPIntegral.P2\bin\Debug\TPIntegral.P2.exe
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\ConsoleApp1\TPIntegral.P2\bin\Debug\TPIntegral.P2.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\ConsoleApp1\TPIntegral.P2\obj\Debug\TPIntegral.P1.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\ConsoleApp1\TPIntegral.P2\obj\Debug\TPIntegral.P1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\ConsoleApp1\TPIntegral.P2\obj\Debug\TPIntegral.P1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\ConsoleApp1\TPIntegral.P2\obj\Debug\TPIntegral.P2.exe
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\ConsoleApp1\TPIntegral.P2\obj\Debug\TPIntegral.P2.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\Trabajo Practico Integral\TPIntegral.P2\bin\Debug\TPIntegral.P2.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\Trabajo Practico Integral\TPIntegral.P2\bin\Debug\TPIntegral.P2.exe
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\Trabajo Practico Integral\TPIntegral.P2\bin\Debug\TPIntegral.P2.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\Trabajo Practico Integral\TPIntegral.P2\obj\Debug\TPIntegral.P1.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\Trabajo Practico Integral\TPIntegral.P2\obj\Debug\TPIntegral.P1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\Trabajo Practico Integral\TPIntegral.P2\obj\Debug\TPIntegral.P1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\Trabajo Practico Integral\TPIntegral.P2\obj\Debug\TPIntegral.P2.exe
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\Trabajo Practico Integral\TPIntegral.P2\obj\Debug\TPIntegral.P2.pdb
